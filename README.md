@@ -1,5 +1,8 @@
 ## Hi there 👋
-[![osu! signature card](/card?user=SplitAlpha&mode=std&lang=en&blur=6&animation=true&hue=200&skills=true)](https://osu.ppy.sh/u/SplitAlpha)
+
+<p align="center"> 
+  <a href="https://osu.ppy.sh/users/27433195/"><img src="https://osu-sig.vercel.app/card?user=SplitAlpha&mode=std&lang=en&blur=6&animation=true&hue=200&skills=true" width="600" /></a>
+</p>
 
 
 
