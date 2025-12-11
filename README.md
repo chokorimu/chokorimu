@@ -1,10 +1,17 @@
-# hi fellas
+# welcome to my profile!
+
+<p align="left"> 
+  <a href="https://static.zerochan.net/Arknights.1024.4437447.webp"><img src="https://s14.gifyu.com/images/bHHvh.gif" width="200" /></a>
+</p>
+
+### things about me:
 
 - developer, gamer, artist, ~~weeb~~
-- love hardcore stuff
+- ♡ love hardcore stuff
 - skills:
     - `nothing to see here`
 - cool stuff:
+
 <p align="left"> 
   <a href="https://osu.ppy.sh/users/27433195/"><img src="https://osu-sig.vercel.app/card?user=SplitAlpha&mode=std&lang=en&blur=6&animation=true&hue=200&skills=true" width="450" /></a>
 </p>
